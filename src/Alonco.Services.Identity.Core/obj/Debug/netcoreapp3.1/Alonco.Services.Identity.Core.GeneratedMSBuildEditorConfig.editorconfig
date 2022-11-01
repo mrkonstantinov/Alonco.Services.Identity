@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Alonco.Services.Identity.Core
+build_property.ProjectDir = c:\github\Alonco\Alonco.Services.Identity\src\Alonco.Services.Identity.Core\

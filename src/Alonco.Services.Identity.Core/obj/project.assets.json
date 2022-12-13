@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\Alonco\\Alonco.Services.Identity\\src\\Alonco.Services.Identity.Core\\Alonco.Services.Identity.Core.csproj",
+      "projectUniqueName": "c:\\github\\Alonco\\Alonco.Services.Identity\\src\\Alonco.Services.Identity.Core\\Alonco.Services.Identity.Core.csproj",
       "projectName": "Alonco.Services.Identity.Core",
-      "projectPath": "C:\\github\\Alonco\\Alonco.Services.Identity\\src\\Alonco.Services.Identity.Core\\Alonco.Services.Identity.Core.csproj",
+      "projectPath": "c:\\github\\Alonco\\Alonco.Services.Identity\\src\\Alonco.Services.Identity.Core\\Alonco.Services.Identity.Core.csproj",
       "packagesPath": "C:\\Users\\d.konstantinov\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\Alonco\\Alonco.Services.Identity\\src\\Alonco.Services.Identity.Core\\obj\\",
+      "outputPath": "c:\\github\\Alonco\\Alonco.Services.Identity\\src\\Alonco.Services.Identity.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
